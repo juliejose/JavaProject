@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-02T11:16:52 IST" name="Suite" finished-at="2024-12-02T11:17:00 IST" duration-ms="8538">
+    <groups>
+    </groups>
+    <test started-at="2024-12-02T11:16:52 IST" name="Test" finished-at="2024-12-02T11:17:00 IST" duration-ms="8538">
+      <class name="blazerTestPkg.BlazerRegiTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:blazerTestPkg.BlazerRegiTest@74e28667]" started-at="2024-12-02T11:16:52 IST" name="setUp" finished-at="2024-12-02T11:16:55 IST" duration-ms="3495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testBlazerLogin()[pri:0, instance:blazerTestPkg.BlazerRegiTest@74e28667]" started-at="2024-12-02T11:16:55 IST" name="testBlazerLogin" finished-at="2024-12-02T11:16:59 IST" duration-ms="3547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBlazerLogin -->
+      </class> <!-- blazerTestPkg.BlazerRegiTest -->
+      <class name="blazerTestPkg.BlazerLoginTest">
+        <test-method signature="testBlazerLogin()[pri:0, instance:blazerTestPkg.BlazerLoginTest@5149d738]" started-at="2024-12-02T11:16:59 IST" name="testBlazerLogin" finished-at="2024-12-02T11:17:00 IST" duration-ms="1438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBlazerLogin -->
+      </class> <!-- blazerTestPkg.BlazerLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
